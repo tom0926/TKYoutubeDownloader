@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file>res/icon/check.png</file>
+    <file>res/icon/down.png</file>
+    <file>res/icon/up.png</file>
+    <file>res/icon/download.png</file>
+    <file>res/icon/banner.png</file>
+    <file>res/icon/open.png</file>
+    <file>res/icon/select.png</file>
+    <file>res/qss/1.qss</file>
+  </qresource>
+</RCC>

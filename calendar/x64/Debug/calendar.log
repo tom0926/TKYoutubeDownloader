@@ -1,0 +1,21 @@
+﻿Build started 7/19/2020 2:24:11 AM.
+     1>Project "D:\dev\TKYoutubeDownloader\calendar\calendar.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(345,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>CustomBuild:
+         Moc'ing mainwindow.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\Qt\Qt5.0.2\5.0.2\msvc2012_64\include /IC:\Qt\Qt5.0.2\5.0.2\msvc2012_64\include\QtWidgets /IC:\Qt\Qt5.0.2\5.0.2\msvc2012_64\include\QtGui /IC:\Qt\Qt5.0.2\5.0.2\msvc2012_64\include\QtCore /Idebug /I"C:\Qt\Qt5.0.2\5.0.2\msvc2012_64\mkspecs\win32-msvc2012" /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_ES_2 /D QT_OPENGL_ES_2_ANGLE /D QT_WIDGETS_LIB /D UNICODE /D UNICODE /D WIN32 /D WIN32 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt -Zm200 -w34100 -w34189 GeneratedFiles\Debug\moc_mainwindow.cpp main.cpp mainwindow.cpp
+         moc_mainwindow.cpp
+         main.cpp
+         mainwindow.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\dev\TKYoutubeDownloader\calendar\x64\Debug\\calendar.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.0.2\5.0.2\msvc2012_64\lib /LIBPATH:C:\Qt\Qt5.0.2\5.0.2\msvc2012_64\lib qtmaind.lib C:\Qt\Qt5.0.2\5.0.2\msvc2012_64\lib\Qt5Widgetsd.lib C:\Qt\Qt5.0.2\5.0.2\msvc2012_64\lib\Qt5Guid.lib C:\Qt\Qt5.0.2\5.0.2\msvc2012_64\lib\Qt5Cored.lib libEGLd.lib libGLESv2d.lib gdi32.lib user32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\dev\TKYoutubeDownloader\calendar\x64\Debug\calendar.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'"  /SUBSYSTEM:WINDOWS x64\Debug\moc_mainwindow.obj
+         x64\Debug\main.obj
+         x64\Debug\mainwindow.obj
+         calendar.vcxproj -> D:\dev\TKYoutubeDownloader\calendar\x64\Debug\calendar.exe
+     1>Done Building Project "D:\dev\TKYoutubeDownloader\calendar\calendar.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:34.68
